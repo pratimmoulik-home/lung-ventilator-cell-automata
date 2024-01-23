@@ -1,1 +1,1 @@
-This project uses cellular automata to simulate lung stress in COVID patients in ventilators.
+Lung ventilators have been used to treat COVID patients. A disadvantage is that the ventilators can inflict a lot of harm on the patients lungs due to stress and strain from the oxygen pressure. This program simulates the damage overtime a ventilator can do to a patient's lungs overtime using matplotlib. 
